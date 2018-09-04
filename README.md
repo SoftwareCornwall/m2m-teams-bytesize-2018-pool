@@ -10,7 +10,7 @@ to the provided classes.
 The challenges come with a core coin reward, with the prizes being totted up via
 the teams dashboard.
 
-Results will be published after the event.
+![Final results](results.png "Final team results")
 
 ## Usage Instructions
 Clone the project locally and check out the main.ino file for starters.
